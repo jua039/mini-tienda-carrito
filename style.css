@@ -1,0 +1,67 @@
+
+#lista-carrito .list-group-item {
+    padding: 6px 12px;
+    font-size: 0.85rem;
+}
+
+.id-carrito-seccion {
+    max-width: 600px;
+}
+
+.id-carrito-seccion h3 {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.id-carrito-seccion h5 {
+    font-size: 0.9rem;
+}
+
+#btn-vaciar {
+    font-size: 0.8rem;
+    padding: 4px 10px;
+}
+
+.btn-eliminar {
+    font-size: 0.7rem;
+    padding: 2px 7px;
+}
+#badge {
+    background-color: #000000 !important;
+    
+    color: rgb(255, 255, 255);
+    
+    padding: 8px 8px;
+    
+    border-radius: 60%;
+    
+}
+
+
+.id-carrito-seccion {
+    background-color: #869b8050;
+   
+    border: 1px solid #054d52;
+    
+    border-radius: 10px;
+    
+}
+
+
+.id-carrito-seccion h3 {
+    color: #111313 !important;
+}
+
+.id-carrito-seccion h5 {
+    color: #cc1c10;
+}
+
+#btn-vaciar {
+    background-color: #ff0000;
+    border-color: #ff0000;
+    color: rgb(255, 255, 255);
+  }
+#btn-vaciar:hover {
+    background-color: #474646;
+    border-color: #ff0000;  
+}
